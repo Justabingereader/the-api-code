@@ -1,5 +1,3 @@
-# Header
-This is The api call project
+# the-api-code
 
-##
-this project had a lot of help, and it is still not perfect, but it is done.
+The most tasking challenge till date, it wasn't easy and wasn't properly done, but it's done now.

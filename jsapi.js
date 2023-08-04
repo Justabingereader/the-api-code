@@ -13,7 +13,7 @@ async function getUserInfo(){
 
 
 
-            const responseContainer = document.getElementById("response-container");
+            // const responseContainer = document.getElementById("response-container");
         //     Loop through the array and create a new HTML element for each response
           
 
